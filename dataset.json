@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Fresno, California, US",
+  "export_job_id": "0e57b50d-07f6-4128-a14c-f7b5ea0c852d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 568931,
+  "location_name": "Fresno",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-fresno-california-us-sample-568931",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/568931/beamstation_568931_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.73,
+  "sample_records": 25,
+  "sample_sha256": "84bfe6506c4093fe3de65cc8e08d2e2b1a69def0f7a3d440dfce445e7054fa0b",
+  "sample_size_bytes": 114268,
+  "total_records": 257,
+  "updated_at": "2026-04-07T23:10:48.371336+00:00"
+}
