@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0e57b50d-07f6-4128-a14c-f7b5ea0c852d",
+  "id_short": 568931,
+  "published_at": "2026-04-13T07:08:46Z",
+  "repo_name": "restaurant-verified-email-access-in-fresno-california-us-sample-568931",
+  "sample_asset_name": "beamstation_568931_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/568931/beamstation_568931_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "84bfe6506c4093fe3de65cc8e08d2e2b1a69def0f7a3d440dfce445e7054fa0b",
+  "sample_size_bytes": 114268,
+  "total_records": 257
+}
